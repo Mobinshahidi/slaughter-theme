@@ -1,0 +1,22 @@
+{
+  "name": "slaughter",
+  "displayName": "slaughter",
+  "description": "...",
+  "publisher": "mobinshahidi",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "slaughter",
+        "uiTheme": "vs-dark",
+        "path": "./themes/slaughter-color-theme.json"
+      }
+    ]
+  }
+}
